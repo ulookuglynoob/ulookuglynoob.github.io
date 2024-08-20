@@ -1,2 +1,2 @@
 - Hi, I’m @ulookuglynoob
-- I’m an amateur programmer in Dart, Python, HTML, and CSS
+- I’m an amateur programmer in Dart, C++, Python, HTML, and CSS

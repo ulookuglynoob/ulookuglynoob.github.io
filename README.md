@@ -4,7 +4,7 @@ Hi there! I'm **Rafan Shah**, a passionate **programmer** who enjoys working on 
 
 ## About This Website
 
-This is my personal website, where you can learn more about me, my work, and how to get in touch. It's designed with a minimal and modern aesthetic, featuring smooth animations and a dark theme for an engaging user experience.
+This is my personal website, where you can learn more about me, my work, and how to get in touch. 
 
 Visit the website here: [ulookuglynoob.github.io/ulookuglynoob](https://ulookuglynoob.github.io/ulookuglynoob/)
 

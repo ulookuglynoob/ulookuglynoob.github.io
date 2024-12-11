@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! I'm **Rafan Shah**, a passionate **programmer** who enjoys working on creative projects and exploring new opportunities. Some languages I program in are **HTML, CSS, Javascript, Dart, Python, and C++**, and I'm always eager to connect with like-minded individuals.
+Hi there! I'm **Rafan Shah**, a passionate **programmer** who enjoys working on creative projects and exploring new opportunities. Some languages I program in are **HTML, CSS, Javascript, Dart, Python, and C++**, and I'm always eager to connect with others!
 
 ## About This Website
 

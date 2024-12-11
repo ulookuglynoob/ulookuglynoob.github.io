@@ -16,5 +16,4 @@ Feel free to reach out to me via:
 
 ---
 
-Thank you for visiting my website!
-
+Thank you for visiting my bio!

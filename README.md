@@ -6,7 +6,7 @@ Hi there! I'm **Rafan Shah**, a passionate **programmer** who enjoys working on 
 
 This is my personal website, where you can learn more about me, my work, and how to get in touch. 
 
-Visit the website here: [ulookuglynoob.github.io/ulookuglynoob](https://ulookuglynoob.github.io/ulookuglynoob/)
+Visit the website here: [ulookuglynoob.github.io](https://ulookuglynoob.github.io/)
 
 
 ## Contact Me
